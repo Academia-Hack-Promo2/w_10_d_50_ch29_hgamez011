@@ -1,0 +1,12 @@
+body{
+  text-align: center;
+  margin: auto;
+  width: 300px; 
+  height: 300px;
+  position: relative;
+}
+
+.choice {
+  margin: auto;
+  position: relative;
+}
